@@ -10,7 +10,7 @@ Wearable computing is one of the most exciting areas in all of data science righ
 When we think about activity tracking and sports, we should not think devices sold, but about the data created for any vertical.  
 Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. 
 
-In this project, our goal will be goal is to prepare tidy data that can be used for later analysis.   
+In this project, our goal will be to prepare tidy data that can be used for later analysis.   
 We will create:  
 *  a tidy data set (Tidy dataset.csv) with some results from the data analysis,
 *  a code book (CodeBook.md) that describes the variables, the data, and any transformations or work that we performed to clean up the data.
