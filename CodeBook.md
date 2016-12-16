@@ -123,7 +123,7 @@ We have created a R script called run_analysis.R that does the following:
 
 ## Tidy dataset
 
-The tidy dataset is a comma separated file, also stored in this repository.  
+The tidy dataset is a txt file called Wearable Data file, also stored in this repository.  
 This set consists of 180 rows (for each of 30 subjects x 6 activities), and 68 columns (activity name, subject number and the average values of 33 means variables and 33 st.dev. variables):  
 
 activitylabel  
@@ -197,4 +197,4 @@ fBodyBodyGyroJerkMag-std()
 
 ## Conclusion
 
-With the tidy data set we could do several further analysis, for instance try to register which activity a subject is doing based on the sensor data. Eg. with machine learning we could predict the activity name based on the 66 measurements.
+With the tidy data set we could do several further analyses, for instance try to register which activity a subject is doing based on the sensor data. Eg. with machine learning we could predict the activity name based on the 66 measurements.

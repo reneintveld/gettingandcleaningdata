@@ -83,8 +83,6 @@ save(fulldb, file = "database4.Rdata")
 database5 <- aggregate(fulldb[, 4:69], list(fulldb$activitylabel, fulldb$subject), mean)
 names(database5)[1:2] <- c("activitylabel", "subject")
 
-save(database5, file = "database5.Rdata")
-
-write.csv(database5, file="tidy dataset.csv")
+write.table(database5, file="wearable data file.txt",row.name=FALSE)
 
 }
