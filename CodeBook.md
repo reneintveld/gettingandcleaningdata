@@ -7,7 +7,7 @@ output: html_document
 
 ## Introduction project
 
-In this project, our goal will be goal is to prepare tidy data that can be used for later analysis from data sourced by wearable computing.
+In this project, our goal will be to prepare tidy data that can be used for later analysis from data sourced by wearable computing.
 Please refer to README.md for a further background on this project.
 
 ## Source data
